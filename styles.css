@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'Open Sans';
+    src: url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+}
+
+@font-face {
+    font-family: 'Neucha';
+    src: url('https://fonts.googleapis.com/css2?family=Neucha&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+}
+
+:root{
+    --white: #fff;
+    --half-opacity-white: #d7ccc0;
+    --light: #f5f4f0;
+    --main-color: #fe8a02;
+    --main-dark: #42413c;
+    --dark: #2a2626;
+    --half-opacity-dark: #908d8b;
+    --brown: #b09a81;
+    --blue: #1085c5;
+    --main-font-size: 16px;
+    --font-line-height: 1.6em;
+    --font-color: #2A2626;
+    --line-height-h: 1.2em;
+    --size-h1: 72px;
+    --size-h2: 60px;
+    --size-h3: 34px;
+    --section-max-width: 1110px;
+    --section-text-align: center;
+    --section-padding: 100px auto;
+}
+
